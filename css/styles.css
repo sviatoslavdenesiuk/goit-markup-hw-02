@@ -68,9 +68,7 @@ body {
     color: #4d5ae5;
 }
 
-.main-logo:hover {
-    color: #404bbf;
-}
+.main-logo:hover,
 .main-logo:focus {
     color: #404bbf;
 }
@@ -101,9 +99,7 @@ body {
   color: #434455;
 
 }
-.email:hover {
-    color: #404bbf;
-}
+.email:hover,
 .email:focus {
    color: #404bbf;
 }
