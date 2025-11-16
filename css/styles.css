@@ -93,14 +93,14 @@ body {
 
 .studio-nav-link:hover,
 .studio-nav-link:focus {
-    color: #4d5ae5;
+    color: #404bbf;
 }
-.email {
+.contact-information {
   color: #434455;
 
 }
-.email:hover,
-.email:focus {
+.contact-information:hover,
+.contact-information:focus {
    color: #404bbf;
 }
 .contacts {
@@ -195,8 +195,7 @@ body {
 }
 
 .team-member {
-     background: #ffffff;
-}
+     background: #ffffff;}
 .team-name {
     font-family: var(--font-family);
     font-weight: 500;
