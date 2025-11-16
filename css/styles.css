@@ -95,7 +95,16 @@ body {
 .nav-link:focus {
     color: #4d5ae5;
 }
+.email {
+  color: #434455;
 
+}
+.email:hover {
+    color: #404bbf;
+}
+.email:focus: {
+   color: #404bbf;
+}
 .contacts {
     font-style: normal;
 }
