@@ -180,13 +180,16 @@ body {
 /* #region team */
 
 .team {
-    background: #ffffff;
+    background: #F4F4FD;
 }
 
 .team-list {
     background: #ffffff;
 }
 
+.team-member {
+     background: #ffffff;
+}
 .team-name {
     font-family: var(--font-family);
     font-weight: 500;
