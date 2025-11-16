@@ -150,6 +150,7 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: var(--navy-blue);
 }
 
@@ -179,11 +180,11 @@ body {
 /* #region team */
 
 .team {
-    background: var(--cloud);
+    background: #ffffff;
 }
 
 .team-list {
-    background: var(--white);
+    background: #ffffff;
 }
 
 .team-name {
@@ -193,7 +194,6 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize;
     color: var(--navy-blue);
 
 }
@@ -220,7 +220,6 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
     color: var(--navy-blue);
 
 
